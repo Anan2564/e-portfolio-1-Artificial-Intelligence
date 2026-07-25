@@ -9,5 +9,7 @@ I was surprised by Artificial Super Intelligence. It made me a little worried. T
 
 The video also taught me that Artificial Intelligence uses computers, information and solving problems to do things that seem smart.
 Artefact 2 — News article:
+<img width="1095" height="527" alt="Screenshot 2026-07-25 at 10 20 01 AM" src="https://github.com/user-attachments/assets/7d1173e8-98db-441d-b01c-70e9fda02674" />
+https://pursuit.unimelb.edu.au/articles/ai-must-be-built-with-indigenous-knowledges,-not-against-them 
 Researchers from the University of Melbourne argue AI risks becoming another force that extracts Indigenous Knowledges without consent or credit unless those knowledge systems are built into AI from the start — the same AI that can help revive endangered languages can also deepen historical injustice, and the difference comes down to whether Indigenous Knowledges are included from the beginning. They raise pointed questions about who owns the training data, who benefits when AI works, and who bears the cost when it fails.
-Citation: Vidanaarachchi, R, Perera, M, Chandrashekeran, S, Kennedy, B & Halgamuge, S 2026, 'AI must be built with Indigenous Knowledges, not against them', Pursuit, University of Melbourne, 3 July 2026, viewed 25 July 2026, https://pursuit.unimelb.edu.au/articles/ai-must-be-built-with-indigenous-knowledges,-not-against-them Phys.orgPhys.org
+Citation: Vidanaarachchi, R, Perera, M, Chandrashekeran, S, Kennedy, B & Halgamuge, S 2026, 'AI must be built with Indigenous Knowledges, not against them', Pursuit, University of Melbourne, 3 July 2026, viewed 25 July 2026.
