@@ -15,6 +15,7 @@ https://pursuit.unimelb.edu.au/articles/ai-must-be-built-with-indigenous-knowled
 Summary:
 Researchers from the University of Melbourne argue AI risks becoming another force that extracts Indigenous Knowledges without consent or credit unless those knowledge systems are built into AI from the start — the same AI that can help revive endangered languages can also deepen historical injustice, and the difference comes down to whether Indigenous Knowledges are included from the beginning. They raise pointed questions about who owns the training data, who benefits when AI works, and who bears the cost when it fails.
 Citation: Vidanaarachchi, R, Perera, M, Chandrashekeran, S, Kennedy, B & Halgamuge, S 2026, 'AI must be built with Indigenous Knowledges, not against them', Pursuit, University of Melbourne, 3 July 2026, viewed 25 July 2026.
+
 Justification: "I found this article exciting because it shows a positive and practical use of AI... this shows how important suitable training data is for machine-learning systems."
 
 Artefact 3 — Scholarly article:
