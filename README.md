@@ -12,6 +12,7 @@ The video also taught me that Artificial Intelligence uses computers, informatio
 Artefact 2 — News article:
 <img width="1095" height="527" alt="Screenshot 2026-07-25 at 10 20 01 AM" src="https://github.com/user-attachments/assets/7d1173e8-98db-441d-b01c-70e9fda02674" />
 https://pursuit.unimelb.edu.au/articles/ai-must-be-built-with-indigenous-knowledges,-not-against-them 
+
 Summary:
 Researchers at the University of Melbourne say that artificial intelligence could become another way of taking knowledge without permission or recognition. This happens unless these knowledge systems are part of AI from the beginning. The same artificial intelligence that can help save languages that are almost lost can also make past wrongs worse. The key difference is whether Indigenous knowledge is included from the start. They ask questions, about who owns the data used to train AI, who gains when AI works well and who suffers when it does not work.
 Citation: Vidanaarachchi, R, Perera, M, Chandrashekeran, S, Kennedy, B & Halgamuge, S 2026, 'AI must be built with Indigenous Knowledges, not against them', Pursuit, University of Melbourne, 3 July 2026, viewed 25 July 2026.
@@ -25,6 +26,7 @@ Artefact 3 — Scholarly article:
 <img width="629" height="530" alt="Screenshot 2026-07-25 at 10 27 36 AM" src="https://github.com/user-attachments/assets/c664052a-d938-49c4-b150-86cdd3561e36" />
 
 https://doi.org/10.3389/fdgth.2025.1614105
+
 Summary:
 Hofmann (2025) reviews how bias in AI systems shows up in three main forms — bias in the input data, bias built into the system, and bias in how it's applied — and argues some of these biases can't fully be eliminated, so transparency about what remains unresolved matters as much as trying to fix it. This connects directly to the "where does the data come from, is it biased?" ethical questions from  Week 2 slides on Machine Learning.
 Citation: Hofmann, B 2025, 'Biases in AI: acknowledging and addressing the inevitable ethical issues', Frontiers in Digital Health, vol. 7, article 1614105. DOI:
@@ -43,7 +45,7 @@ Campus: Sydney Campus
 Summary:
 One topic I found interesting was facial recognition technology. We talked about how it's used for security and watching people but also how getting the wrong person could hurt innocent people. The workshop also made us think about who should be responsible if the technology makes a mistake.
 
-Justification on why I chose the artefact
+Justification:
 
 I chose this topic because it made me think about the balance, between keeping people safe and protecting privacy. It helped me understand that AI systems need to be correct, clear and used in a way to make sure they do not hurt people.
 
