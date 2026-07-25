@@ -61,3 +61,8 @@ Hofmann, B 2025, 'Biases in AI: acknowledging and addressing the inevitable ethi
 Learn Bright 2024, What Is AI? | Learn all about artificial intelligence, video, 6 December 2024, viewed 25 July 2026, https://www.youtube.com/watch?v=JcXKbUIebrU&t=14s
 
 Vidanaarachchi, R, Perera, M, Chandrashekeran, S, Kennedy, B & Halgamuge, S 2026, 'AI must be built with Indigenous Knowledges, not against them', Pursuit, University of Melbourne, 3 July 2026, viewed 25 July 2026, https://pursuit.unimelb.edu.au/articles/ai-must-be-built-with-indigenous-knowledges,-not-against-them
+
+
+
+
+
