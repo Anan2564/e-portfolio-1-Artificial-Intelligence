@@ -19,7 +19,6 @@ Justification: "I found this article exciting because it shows a positive and pr
 
 Artefact 3 — Scholarly article:
 <img width="585" height="278" alt="Screenshot 2026-07-25 at 10 27 26 AM" src="https://github.com/user-attachments/assets/a0ee6bbf-fa71-4f84-99bf-1b753856dc4a" />
-
 <img width="629" height="530" alt="Screenshot 2026-07-25 at 10 27 36 AM" src="https://github.com/user-attachments/assets/c664052a-d938-49c4-b150-86cdd3561e36" />
 https://doi.org/10.3389/fdgth.2025.1614105
 Summary:
