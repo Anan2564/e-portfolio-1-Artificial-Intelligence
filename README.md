@@ -47,6 +47,9 @@ Justification on why I chose the artefact
 
 I chose this topic because it made me think about the balance, between keeping people safe and protecting privacy. It helped me understand that AI systems need to be correct, clear and used in a way to make sure they do not hurt people.
 
+
+References in CQU Harvard Style
+
 Hofmann, B 2025, 'Biases in AI: acknowledging and addressing the inevitable ethical issues', Frontiers in Digital Health, vol. 7, article 1614105. DOI: https://doi.org/10.3389/fdgth.2025.1614105
 
 Learn Bright 2024, What Is AI? | Learn all about artificial intelligence, video, 6 December 2024, viewed 25 July 2026, https://www.youtube.com/watch?v=JcXKbUIebrU&t=14s
