@@ -25,8 +25,9 @@ Artefact 3 — Scholarly article:
 
 https://doi.org/10.3389/fdgth.2025.1614105
 Summary:
-Hofmann (2025) reviews how bias in AI systems shows up in three main forms — bias in the input data, bias built into the system, and bias in how it's applied — and argues some of these biases can't fully be eliminated, so transparency about what remains unresolved matters as much as trying to fix it. This connects directly to the "where does the data come from, is it biased?" ethical questions from your Week 2 slides on Machine Learning.
+Hofmann (2025) reviews how bias in AI systems shows up in three main forms — bias in the input data, bias built into the system, and bias in how it's applied — and argues some of these biases can't fully be eliminated, so transparency about what remains unresolved matters as much as trying to fix it. This connects directly to the "where does the data come from, is it biased?" ethical questions from  Week 2 slides on Machine Learning.
 Citation: Hofmann, B 2025, 'Biases in AI: acknowledging and addressing the inevitable ethical issues', Frontiers in Digital Health, vol. 7, article 1614105. DOI:
+
 Justification:
 I chose it because AI bias can be a problem rooted in data, system design or the use of technology. However, I also noticed that some bias may never be completely eliminated which means the developer should plainly communicate areas where limitations remain. This ties into the Week 2 lecture regarding biased data and responsible ML (Hofmann, 2025).
 
