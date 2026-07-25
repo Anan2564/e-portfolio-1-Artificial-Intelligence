@@ -32,3 +32,23 @@ Citation: Hofmann, B 2025, 'Biases in AI: acknowledging and addressing the inevi
 Justification:
 I chose it because AI bias can be a problem rooted in data, system design or the use of technology. However, I also noticed that some bias may never be completely eliminated which means the developer should plainly communicate areas where limitations remain. This ties into the Week 2 lecture regarding biased data and responsible ML (Hofmann, 2025).
 
+Artefact 4: Workshop Personal Reflection
+
+Workshop week: Week 2
+Day and date: Thrusday, 23 July 2026
+Tutor: Umapathy Venugopal
+Campus: Sydney Campus
+<img width="2048" height="1445" alt="WhatsApp Image 2026-07-25 at 7 27 19 PM" src="https://github.com/user-attachments/assets/4baf31f2-5542-4286-9ed1-9067bf51df6b" />
+
+Summary:
+One topic I found interesting was facial recognition technology. We talked about how it's used for security and watching people but also how getting the wrong person could hurt innocent people. The workshop also made us think about who should be responsible if the technology makes a mistake.
+
+Justification on why I chose the artefact
+
+I chose this topic because it made me think about the balance, between keeping people safe and protecting privacy. It helped me understand that AI systems need to be correct, clear and used in a way to make sure they do not hurt people.
+
+Hofmann, B 2025, 'Biases in AI: acknowledging and addressing the inevitable ethical issues', Frontiers in Digital Health, vol. 7, article 1614105. DOI: https://doi.org/10.3389/fdgth.2025.1614105
+
+Learn Bright 2024, What Is AI? | Learn all about artificial intelligence, video, 6 December 2024, viewed 25 July 2026, https://www.youtube.com/watch?v=JcXKbUIebrU&t=14s
+
+Vidanaarachchi, R, Perera, M, Chandrashekeran, S, Kennedy, B & Halgamuge, S 2026, 'AI must be built with Indigenous Knowledges, not against them', Pursuit, University of Melbourne, 3 July 2026, viewed 25 July 2026, https://pursuit.unimelb.edu.au/articles/ai-must-be-built-with-indigenous-knowledges,-not-against-them
