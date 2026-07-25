@@ -37,9 +37,13 @@ I chose it because AI bias can be a problem rooted in data, system design or the
 Artefact 4: Workshop Personal Reflection
 
 Workshop week: Week 2
+
 Day and date: Thrusday, 23 July 2026
+
 Tutor: Umapathy Venugopal
+
 Campus: Sydney Campus
+
 <img width="2048" height="1445" alt="WhatsApp Image 2026-07-25 at 7 27 19 PM" src="https://github.com/user-attachments/assets/4baf31f2-5542-4286-9ed1-9067bf51df6b" />
 
 Summary:
